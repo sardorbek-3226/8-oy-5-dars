@@ -10,4 +10,5 @@ export interface User {
   bio: string;
   twitter_username: string;
   name: string;
+  public_repos:number;
 }
